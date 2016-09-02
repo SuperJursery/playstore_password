@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Play Store</string>
+    <string name="tips_title">Please confirm identity to open \"Play Store\"</string>
+    <string name="password">password </string>
+    <string name="confirm">Confirm</string>
+    <string name="wrong">Password error, please retry！</string>
+    <string name="change_password">Change Password </string>
+    <string name="old_pwd">original password :</string>
+    <string name="new_pwd">new password :</string>
+    <string name="double_check">double check :</string>
+</resources>
